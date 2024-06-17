@@ -47,3 +47,6 @@ O projeto consiste em um script principal:
 - Eduardo Vicentini Levy - RM554561
 - Rafael Teofilo Lucena - RM555600
 - Lucas Feliciano - RM557261
+
+### Simulação Online
+[Wokwi](https://wokwi.com/projects/400964184541502465)
